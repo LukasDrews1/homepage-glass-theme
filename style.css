@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #5a9aa5;
+    background-color: #51b5c7;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
 #glass-body {
     height: 750px;
     width: 750px;
-    background-color: rgba(95, 60, 175, 0.5);
+    background-color: rgba(212, 64, 188, 0.6);
     border-radius: 10%;
     border: 5px solid #2b2b2b;
 }
