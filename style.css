@@ -14,7 +14,8 @@ main {
 
 .glass {
   background: #fff;
-  background: linear-gradient(to right bottom, rgba(255,255,255, 0.7), rgba(255,255,255, 0.2));
+  background: linear-gradient(to right bottom, rgba(255,255,255, 0.7), rgba(255,255,255, 0.3));
   min-height: 80vh;  
   width: 60%;
+  border-radius: 5%;
 }
