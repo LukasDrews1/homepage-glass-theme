@@ -20,6 +20,13 @@ main {
   border-radius: 50px;
 }
 
+#profile-background {
+    height: 200px;
+    width: 200px;
+    background-color: #444;
+    border-radius: 5px;
+}
+
 #profile-pic {
     height: 128px;
     width: 128px;
