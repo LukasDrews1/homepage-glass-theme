@@ -22,7 +22,7 @@ main {
 
 #profile-pic {
     height: 125px;
-    min-width: 125px;
-    width: 12%;
+    width: 125px;
+    border-radius: 50%;
     background-color: #657679;
 }
