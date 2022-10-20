@@ -19,3 +19,10 @@ main {
   width: 60%;
   border-radius: 50px;
 }
+
+#profile-pic {
+    height: 125px;
+    min-width: 125px;
+    width: 12%;
+    background-color: #657679;
+}
