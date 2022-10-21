@@ -54,4 +54,5 @@ button {
     border-bottom:  5px solid #A1D6E2;
     font-size: 1.4pc;
     font-family: cursive;
+    background: linear-gradient(to right bottom, rgba(255,255,255, 0.5), rgba(255,255,255, 0.2));
 }
