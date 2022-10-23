@@ -106,3 +106,10 @@ main {
     justify-content: center;
     gap: 25px;
 }
+
+.Block-of-text {
+    height: 250px;
+    width: 450px;
+    background: linear-gradient(to right bottom, rgba(247, 94, 239, 0.5), rgba(214, 135, 17, 0.5));
+    border-radius: 2%;
+}
