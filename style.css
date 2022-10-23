@@ -33,6 +33,12 @@ main {
     gap: 50px;
 }
 
+@media all and (max-width: 1815px) {
+    #profile-background {
+        gap: 10px;
+    }
+}
+
 #profile-pic {
     height: 128px;
     width: 128px;
