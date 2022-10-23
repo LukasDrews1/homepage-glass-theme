@@ -44,7 +44,7 @@ main {
     margin-top: 1%;
 }
 
-a {
+.style-a-tag {
     height: 50px;
     width: 125px;
     border-radius: 25px;
@@ -61,7 +61,7 @@ a {
     color: #333;
 }
 
-a:hover {
+.style-a-tag:hover {
     background: linear-gradient(to right bottom, rgba(247, 94, 239, 0.5), rgba(214, 135, 17, 0.5));
 }
 
