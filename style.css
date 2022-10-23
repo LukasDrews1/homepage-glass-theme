@@ -67,6 +67,7 @@ button:hover {
     width: 200px;
     background: linear-gradient(to right bottom, rgba(94, 247, 145, 0.5), rgba(93, 35, 185, 0.5));
     border-radius: 5%;
+    
 }
 
 #ball {
@@ -74,4 +75,24 @@ button:hover {
     width: 50px;
     border-radius: 50%;
     background: linear-gradient(to right bottom, rgba(120, 0, 145, 0.5), rgba(201, 4, 112, 0.5));
+}
+
+#parent-ball #ball {   
+    animation: round 2.5s linear forwards infinite alternate;
+}
+
+@keyframes round {
+    0% {
+        transform: translateX(0%);
+    }
+
+    25% {
+        transform: translateY(150%);
+    }
+    50% {
+        transform: translateX(300%)  translateY(150%);
+    }
+    75% {
+        transform: translateX(300%);
+ }
 }
