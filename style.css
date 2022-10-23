@@ -33,7 +33,7 @@ main {
     gap: 50px;
 }
 
-@media all and (max-width: 1815px) {
+@media all and (max-width: 1400px) {
     #profile-background {
         gap: 10px;
     }
@@ -141,5 +141,12 @@ main {
     }
     #update-information-parent {
         margin-top: 120px;
+    }
+}
+
+@media all and (max-width: 800px) {
+
+    #update-information-parent {
+        margin-top: 250px;
     }
 }
