@@ -139,4 +139,7 @@ main {
     #special-treatment {
     display: none;
     }
+    #update-information-parent {
+        margin-top: 120px;
+    }
 }
