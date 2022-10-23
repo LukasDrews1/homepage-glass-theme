@@ -100,3 +100,9 @@ main {
         transform: translateX(300%);
  }
 }
+#update-information-parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
