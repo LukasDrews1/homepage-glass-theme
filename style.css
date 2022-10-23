@@ -101,7 +101,7 @@ main {
  }
 }
 
-@media all and (max-width: 1800px) {
+@media all and (max-width: 1815px) {
     #parent-ball, #ball {
     height: 0px;
     }
