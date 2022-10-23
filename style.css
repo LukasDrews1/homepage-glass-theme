@@ -144,7 +144,7 @@ main {
     }
 }
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 450px) {
 
     #update-information-parent {
         margin-top: 250px;
