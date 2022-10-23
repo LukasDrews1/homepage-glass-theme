@@ -100,6 +100,13 @@ main {
         transform: translateX(300%);
  }
 }
+
+@media all and (max-width: 1800px) {
+    #parent-ball, #ball {
+    height: 0px;
+    }
+}
+
 #update-information-parent {
     display: flex;
     flex-wrap: wrap;
