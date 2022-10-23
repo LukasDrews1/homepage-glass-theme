@@ -126,3 +126,17 @@ main {
     background: linear-gradient(to right bottom, rgba(247, 94, 239, 0.5), rgba(214, 135, 17, 0.5));
     border-radius: 2%;
 }
+
+#special-treatment {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media all and (max-width: 1130px) {
+    #special-treatment {
+    display: none;
+    }
+}
