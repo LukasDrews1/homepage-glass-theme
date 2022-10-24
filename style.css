@@ -147,13 +147,6 @@ main {
     display: none;
     }
     #update-information-parent {
-        margin-top: 120px;
-    }
-}
-
-@media all and (max-width: 450px) {
-
-    #update-information-parent {
-        margin-top: 250px;
+        margin-top: 20px;
     }
 }
