@@ -36,6 +36,7 @@ main {
 @media all and (max-width: 1400px) {
     #profile-background {
         gap: 10px;
+        height: auto;
     }
 }
 
