@@ -52,6 +52,12 @@ main {
     margin-top: 1%;
 }
 
+@media all and (max-width: 500px) {
+    #parent-profile-pic {
+        margin: auto;
+    }
+}
+
 .style-a-tag {
     height: 50px;
     width: 125px;
