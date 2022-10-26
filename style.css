@@ -151,6 +151,14 @@ main {
     }
 }
 
+#picture-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .images {
     height: 128px;
     width: 128px;
