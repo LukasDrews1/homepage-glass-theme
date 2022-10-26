@@ -172,3 +172,20 @@ main {
     border-radius: 50%;
     background-color: #333; 
 }
+
+#custom-button {
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    border-right: 5px solid #C4DFE6;
+    border-left: 5px solid #A1D6E2;
+    border-top: 5px solid #C4DFE6;
+    border-bottom:  5px solid #A1D6E2;
+    font-size: 1.4pc;
+    font-family: cursive;
+    cursor: pointer;
+    background: linear-gradient(to right bottom, rgba(255,255,255, 0.5), rgba(255,255,255, 0.2));
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+}
