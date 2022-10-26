@@ -151,6 +151,13 @@ main {
     }
 }
 
+#parent-file {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+
 #picture-parent {
     display: flex;
     justify-content: center;
